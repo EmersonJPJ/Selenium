@@ -39,7 +39,7 @@ mvn install selenium-webdriver
 ```
 
 ### 2. **Download ChromeDriver** 🔽
-Download ChromeDriver [here](https://sites.google.com/a/chromium.org/chromedriver/).
+Download ChromeDriver [here](https://sites.google.com/chromium.org/driver/downloads).
 
 After downloading, specify its path in your project code.
 
@@ -49,7 +49,7 @@ After downloading, specify its path in your project code.
 Clone this project to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/selenium-web-automation.git
+git clone https://github.com/EmersonJPJ/Selenium.git
 ```
 
 ### 4. **Run the Application** ▶️
