@@ -1,27 +1,27 @@
 # Selenium Web Automation Project 
 
-## Overview 🌐
+## Overview 
 
 Welcome to the **Selenium Web Automation Project**! This project demonstrates how to automate web interactions using **Selenium WebDriver** in **Java**. It simulates navigating through a government website (DGSC) and performs tasks such as clicking links, filling out forms, and scrolling.
 
-### Why Selenium? 🤔
+### Why Selenium? 
 Selenium is one of the most powerful tools for automating browsers. Whether you're testing web applications, scraping data, or automating repetitive tasks, Selenium has you covered!
 
 ---
 
-## Project Description 🎯
+## Project Description 
 
 This project showcases the ability to automate interactions with a website. The **main actions** performed include:
-- **Navigating web pages** 🌍
-- **Filling out forms** 📝
-- **Clicking buttons and links** 🔗
-- **Scrolling through long pages** ⬇️
+- **Navigating web pages** 
+- **Filling out forms** 
+- **Clicking buttons and links** 
+- **Scrolling through long pages** 
 
 The project provides a simple yet powerful demonstration of **web automation** and can serve as a foundation for more complex automation tasks.
 
 ---
 
-## Setup Instructions 🔧
+## Setup Instructions 
 
 To get started with this project, follow these simple steps:
 
@@ -38,26 +38,26 @@ You can install Selenium with Maven using the following command:
 mvn install selenium-webdriver
 ```
 
-### 2. **Download ChromeDriver** 🔽
+### 2. **Download ChromeDriver** 
 Download ChromeDriver [here](https://sites.google.com/chromium.org/driver/downloads).
 
 After downloading, specify its path in your project code.
 
 ---
 
-### 3. **Clone the Repository** 💻
+### 3. **Clone the Repository** 
 Clone this project to your local machine:
 
 ```bash
 git clone https://github.com/EmersonJPJ/Selenium.git
 ```
 
-### 4. **Run the Application** ▶️
+### 4. **Run the Application** 
 Once set up, open the project in your favorite IDE (e.g., IntelliJ, Eclipse) and run the `Selenium.java` or `Simulacion.java` class. Watch as the browser automates tasks!
 
 ---
 
-## Features 🚀
+## Features 
 
 - **Automated Page Navigation**: Navigate through multiple pages on the website.
 - **Form Submission**: Automatically fill out and submit forms with sample data.
@@ -67,15 +67,15 @@ Once set up, open the project in your favorite IDE (e.g., IntelliJ, Eclipse) and
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are always welcome! If you have suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request. 
 
 ---
 
-## ✨ Contact  
+##  Contact  
 
 Feel free to reach out for any questions or suggestions!  
 
-- 📧 **Email**: emerson04vade@gmail.com  
-- 💻 **GitHub**: EmersonJPJ 
+-  **Email**: emerson04vade@gmail.com  
+-  **GitHub**: EmersonJPJ 
