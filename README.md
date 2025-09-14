@@ -1,4 +1,4 @@
-# Selenium Web Automation Project 🚀
+# Selenium Web Automation Project 
 
 ## Overview 🌐
 
